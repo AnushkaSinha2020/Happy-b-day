@@ -1,0 +1,33 @@
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	border-color:darkviolet;
+}
+
+.body_backgorund{
+    background-image: url("cute-birthday-instagram-captions-1584723902.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#h1{
+    font-family: 'Lobster', cursive;
+}
+
+#btn{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    background-color: cornflowerblue;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
